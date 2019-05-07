@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="280" src="http://pic.pptstore.net/pptpic/72/89/bad276b0203f3c73_middle.JPG" alt="logo">
+  <img width="280" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557230577143&di=257ef2f1a74b0844248e75072d26752b&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180127%2F9b26923bbbfe4c57bcb6621f974553c9.jpeg" alt="logo">
 </p>
 
 ## Target
-Collect quality content & classical problem
+收集优质内容和经典问题
 
-Contributions are welcome!
+欢迎捐款！
 
 ## Edit Content
 ``` bash
@@ -33,10 +33,10 @@ npm run build
 
 ## Development
 
-> Please make sure your version of Node.js is greater than 8.
+> 请确保您的Node.js版本大于8。
 
 ``` bash
-npm run dev # serves VuePress' own docs with itself
+npm run dev ＃为自己提供VuePress自己的文档
 ```
 
 ## Deploy
@@ -44,11 +44,11 @@ npm run dev # serves VuePress' own docs with itself
 npm run build
 ```
 
-## Contribute
+<!-- ## Contribute
 - Send pr to add excellent content
 - Help us improve our content on exist pages  
 
-![improve](/src/.vuepress/public//img/improve.png)
+![improve](/src/.vuepress/public//img/improve.png) -->
 
 ## License
 
