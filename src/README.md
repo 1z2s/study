@@ -13,9 +13,14 @@ footer: MIT Licensed | Copyright © 1970-present 1z2s
 </div>
 ---
 <div>
-  <center>努力不是为了取悦别人 而是照亮自己的心 告诉自己有一股独立向上的力量.</center>
-  <br/>
+  <center><h4>努力不是为了取悦别人 而是照亮自己的心 告诉自己有一股独立向上的力量.</h4></center>
+  <!-- <br/> -->
 </div>
+<div>
+  <center><h4>努力不是为了取悦别人 而是照亮自己的心 告诉自己有一股独立向上的力量.</h4></center>
+  <!-- <br/> -->
+</div>
+
 
 <!-- <div class="features">
   <div class="feature">
@@ -32,9 +37,9 @@ footer: MIT Licensed | Copyright © 1970-present 1z2s
   </div>
 </div> -->
 
-<!-- ### 起步就像数 1, 2, 3 一样容易
+<!-- ### 起步就像数 1, 2, 3 一样容易 -->
 
-``` bash
+<!-- ``` bash
 # 安装
 yarn global add vuepress # 或 npm install -g vuepress
 
@@ -46,8 +51,10 @@ vuepress dev
 
 # 构建为静态文件
 vuepress build
-```
+``` -->
+---
 
-::: warning 兼容性注意事项
+
+:::warning 兼容性注意事项
 VuePress 要求 Node.js >= 8。
-::: -->
+:::

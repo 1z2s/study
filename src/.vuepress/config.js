@@ -52,6 +52,13 @@ module.exports = {
           //   ],
           // },
           {
+            text: '基础知识点',
+            items:[
+              { text: '浏览器', link: '/zh/algorithm/browser.md'},
+              { text: '结构样式', link: '/zh/algorithm/html.md'},
+            ]
+          },
+          {
             text: '项目相关',
             items: [
               { text: '前端规范', link: '/zh/standard/Standard.md'},
