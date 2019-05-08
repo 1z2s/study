@@ -25,7 +25,7 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    repo: '1z2s/study',
+    repo: 'jasonandjay/study',
 
     docsDir: 'src',
     editLinks: true,
@@ -33,7 +33,7 @@ module.exports = {
     locales: {
       '/': {
         label: '简体中文',
-        repo: '1z2s/study',
+        repo: 'jasonandjay/study',
       
         selectText: '选择语言',
         editLinkText: '帮助我们改进内容',
@@ -60,14 +60,14 @@ module.exports = {
               { text: '移动端兼容问题', link: '/zh/standard/Compatibility.md'}
             ],
           },
-          {
-            text: '知名公司面试题',
-            items: [
-              { text: '面试必看', link: '/zh/interview/index.md'},
-              { text: '阿里巴巴', link: '/zh/interview/ali.md'},
-              { text: '龙湖地产', link: '/zh/interview/longhu.md'}
-            ]
-          },
+          // {
+          //   text: '知名公司面试题',
+          //   items: [
+          //     { text: '面试必看', link: '/zh/interview/index.md'},
+          //     { text: '阿里巴巴', link: '/zh/interview/ali.md'},
+          //     { text: '龙湖地产', link: '/zh/interview/longhu.md'}
+          //   ]
+          // },
           {
             text: '知识点笔记',
             items: [
