@@ -43,14 +43,14 @@ module.exports = {
             text: '快速搭建开发环境',
             link: '/zh/standard/Start.md'
           },
-          {
-            text: '算法',
-            items: [
-              { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
-              { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
-              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
-            ],
-          },
+          // {
+          //   text: '算法',
+          //   items: [
+          //     { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
+          //     { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
+          //     { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
+          //   ],
+          // },
           {
             text: '项目相关',
             items: [
